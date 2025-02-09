@@ -7,3 +7,28 @@ En traducciones deben ir en cursivas las palabras o expresiones que en el origin
 Neologismos como contranovela o blogósfera. Notas musicales.
 Palabras o expresiones usadas como metalenguaje.
 ![Un libro del internet ](https://images.epublibre.org/libros/78639.jpg)
+
+``` C
+    // calcular area
+	
+#include <stdio.h>
+
+#define PI 3.14159  // Definimos el valor de PI
+
+int main() {
+    float radio, area;
+
+    // Solicitar al usuario el valor del radio
+    printf("Introduce el radio del círculo: ");
+    scanf("%f", &radio);
+
+    // Calcular el área
+    area = PI * radio * radio;
+
+    // Mostrar el resultado
+    printf("El área del círculo con radio %.2f es: %.2f\n", radio, area);
+
+    return 0;
+}
+```
+''''''
