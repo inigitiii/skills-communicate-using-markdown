@@ -6,3 +6,4 @@ En traducciones deben ir en cursivas las palabras o expresiones que en el origin
 ## Palabras o expresiones jergales, dialectales o intencionadamente mal escritas.
 Neologismos como contranovela o blogósfera. Notas musicales.
 Palabras o expresiones usadas como metalenguaje.
+![Un libro del internet ](https://images.epublibre.org/libros/78639.jpg)
